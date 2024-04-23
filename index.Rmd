@@ -93,12 +93,21 @@ Typically, the sample is washed with an ammonium acetate buffer and then rapidly
 
 After freezing, the sample can be directly analyzed using cryo-analysis techniques that examine the entire sample. In other cases, if the sample needs to be embedded in a resin block for sectioning, a freeze substitution protocol is followed after freezing.
 
-
 ## Contrasting
 
 Certain compounds are utilized to boost the contrast of particular biological molecule groups. Uranium and lead are the most frequently employed stains for this purpose. Typically, uranium is applied in the form of uranyl acetate, amplifying the contrast of lipids and proteins. Conversely, lead is commonly employed in the form of lead citrate to heighten the contrast of proteins and glycogens.
 
-## Resins
+## Embedding
+
+The embedding process entails saturating the sample with a liquid compound that solidifies, facilitating subsequent sectioning. The selection of the embedding material depends on the desired thickness of the sections; for thinner sections, a firmer embedding material is required.
+
+**Paraffin**
+
+Paraffin serves as the embedding medium for slicing samples into layers measuring tens of micrometers. Solid at room temperature and with a melting point around 60°C, embedding takes place in a heated stove. Prior to embedding, dehydration is essential due to paraffin's inability to mix with water. After complete infiltration of the sample with paraffin, it is transferred to a mold, filled with paraffin, and allowed to cool to room temperature.
+
+**Resins**
+
+The resins are solidified by polimerization
 
 
 ## Substrates {#Substrates}
