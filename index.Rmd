@@ -350,7 +350,7 @@ Paraffin            C-H                 2800-3000
 
 ## Protocols for sample preparation
 
-### Adherent mammalian cells
+### Dried adherent mammalian cells
 
 Wash the substrates twice by submerging them in 70% ethanol. Place around four substrates per well in a 6-well plate. Allow sufficient time for all the ethanol to evaporate completely before seeding the cells. Dispense the cells in the wells and allow they to grow for at least 24h.
 
@@ -381,6 +381,12 @@ Before initiate the fixation, ensure that the cell confluence reaches a suitable
 * Dehydration: Extract the buffer from the samples and initiate the dehydration process. Immerse the samples in sequential ethanol solutions for a duration of 10 minutes each. Begin with a 15% ethanol solution and gradually increase in increments (30%, 50%, 70%, 80%, 90%, and two times 100%), all while maintaining an ice bath. Then, proceed with the recommended steps for sample drying through Air drying (Section \@ref(Air)). Dispose of any waste materials in the designated plastic disposal container.
 
 * Turn off the ice machine.
+
+### Wet adherent mammalian cells
+
+This procedure should be performed chronologically according to the beamtime schedule. Begin by washing the substrates twice by submerging them in 70% ethanol. Place approximately four substrates per well in a 6-well plate. Allow sufficient time for all the ethanol to evaporate completely before seeding the cells. Dispense the cells into the wells and allow them to grow for at least 24 hours.
+
+Avoid using phosphate buffer in this sample preparation. Ensure that the cell confluence reaches a suitable density to cover the substrates without causing overlapping of cell structures during the beamtime. Just before the analysis, transfer one substrate to a 1.5 mL microtube containing cell culture media without FBS using a clamp. Then, at the beamline, transfer the substrate again to a 1.5 mL empty microtube and centrifuge for x minutes. Analyze the substrate immediately after centrifugation.
 
 ### Bacteria
 
